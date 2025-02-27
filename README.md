@@ -16,10 +16,7 @@ I created this project as an experiment to learn OpenGL and explore how to struc
 Because setting up OpenGL from scratch is a bit of a pain, I've recorded a video of me running the program (ignore Young Sheldon 😅). Check it out below!
 
 
-
-<a href="https://youtu.be/TAVazWsCWxc" target="_blank">
-  <img src="https://img.youtube.com/vi/TAVazWsCWxc/maxresdefault.jpg" alt="Watch the video">
-</a>
+[![Watch the video](https://img.youtube.com/vi/TAVazWsCWxc/maxresdefault.jpg)](https://youtu.be/TAVazWsCWxc)
 
 
-
+*Click the thumbnail to watch the video (it will open in the same tab). To open in a new tab, right-click and select "Open link in new tab".*
