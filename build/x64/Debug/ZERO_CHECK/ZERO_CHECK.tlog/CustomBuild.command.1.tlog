@@ -1,0 +1,10 @@
+^C:\USERS\DIARMUID\ATMOSPHERE_SIMULATOR\BUILD\CMAKEFILES\2613B559D3137B06BBA38A99C7A3F029\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/diarmuid/atmosphere_simulator -BC:/Users/diarmuid/atmosphere_simulator/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/diarmuid/atmosphere_simulator/build/YourProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
