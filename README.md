@@ -1,6 +1,6 @@
 # N-Body Particle Simulation
 ## Overview 
-This N-Body Particle Simulation models the gravitational interactions between n particles. It's built to efficiently render 3D particle movements and provide an accurate simulation of how celestial bodies interact over time.
+This N-Body Particle Simulation models the gravitational interactions between n particles. It's built to efficiently render 3D particle movements and provide a simulation of how celestial bodies might interact over time assuming it's a Hamiltonian system.
 
 I created this project as an experiment to learn OpenGL and explore how to structure a C++ project. The simulation is written in C++ to handle large numbers of particles and uses interesting algorithms like Barnes-Hut to significantly reduce the time complexity of the simulation.
 
